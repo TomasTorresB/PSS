@@ -1,0 +1,9 @@
+/usr/bin/ld: /tmp/ccQAxScx.o: en la función `assign':
+parking.c:(.text+0x31b): referencia a `getstr' sin definir
+/usr/bin/ld: parking.c:(.text+0x4e5): referencia a `getstr' sin definir
+/usr/bin/ld: /tmp/ccQAxScx.o: en la función `main':
+parking.c:(.text+0x6a2): referencia a `j_socket' sin definir
+/usr/bin/ld: parking.c:(.text+0x6b4): referencia a `j_bind' sin definir
+/usr/bin/ld: parking.c:(.text+0x711): referencia a `j_accept' sin definir
+/usr/bin/ld: parking.c:(.text+0x782): referencia a `pthread_create' sin definir
+collect2: error: ld returned 1 exit status

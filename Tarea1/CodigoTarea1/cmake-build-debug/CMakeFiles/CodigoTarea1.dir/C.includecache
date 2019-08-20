@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea1/CodigoTarea1/t1.h
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea1/CodigoTarea1/test-t1.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+t1.h
+/home/tomas/Documentos/6to Semestre/PSS/Tarea1/CodigoTarea1/t1.h
+

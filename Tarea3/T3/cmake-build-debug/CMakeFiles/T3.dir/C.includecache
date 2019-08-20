@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea3/T3/reunion.c
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+reunion.h
+/home/tomas/Documentos/6to Semestre/PSS/Tarea3/T3/reunion.h
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea3/T3/reunion.h
+

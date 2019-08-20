@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri-arreglo.h
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri-lista.h
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri.h
+
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/test-colapri-lista.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+colapri.h
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri.h
+colapri-arreglo.h
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri-arreglo.h
+colapri-lista.h
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/colapri-lista.h
+

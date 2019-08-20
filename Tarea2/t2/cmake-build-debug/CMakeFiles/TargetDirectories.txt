@@ -1,0 +1,3 @@
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomas/Documentos/6to Semestre/PSS/Tarea2/t2/cmake-build-debug/CMakeFiles/t2.dir

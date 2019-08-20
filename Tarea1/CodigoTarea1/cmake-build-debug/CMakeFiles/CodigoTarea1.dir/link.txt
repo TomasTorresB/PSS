@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CodigoTarea1.dir/test-t1.c.o  -o CodigoTarea1 

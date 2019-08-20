@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Makefile.dir/test-colapri-lista.c.o  -o Makefile 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/t2.dir/colapri-lista.c.o CMakeFiles/t2.dir/test-colapri-lista.c.o CMakeFiles/t2.dir/colapri-arreglo.c.o  -o t2 

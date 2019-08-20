@@ -1,0 +1,9 @@
+#include <pthread.h>
+#include "reunion.h"
+
+typedef struct reunion {
+  int size,votos;
+  pthread_mutex_t m;
+  pthread_cond_t cond;
+} Reunion;
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test-colapri-lista.c.dir/test-colapri-lista.c.o  -o test-colapri-lista.c 
